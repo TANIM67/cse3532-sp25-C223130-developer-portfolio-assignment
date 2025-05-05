@@ -1,4 +1,21 @@
 h1
 {
-    color : blueviolet;
+    color : black;
+}
+.Naiv-menu
+{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Menu-items>ul
+{
+    display : flex;
+    list-style-type: none;
+    align-items: center;
+}
+.Menu-items>ul>li
+{
+    margin: 0;
+    padding: 20px;
 }
